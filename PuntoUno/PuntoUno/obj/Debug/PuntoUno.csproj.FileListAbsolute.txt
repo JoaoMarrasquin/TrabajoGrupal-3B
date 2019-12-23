@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\PuntoUno\PuntoUno\bin\Debug\PuntoUno.exe.config
+C:\Users\User\source\repos\PuntoUno\PuntoUno\bin\Debug\PuntoUno.exe
+C:\Users\User\source\repos\PuntoUno\PuntoUno\bin\Debug\PuntoUno.pdb
+C:\Users\User\source\repos\PuntoUno\PuntoUno\obj\Debug\PuntoUno.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PuntoUno\PuntoUno\obj\Debug\PuntoUno.exe
+C:\Users\User\source\repos\PuntoUno\PuntoUno\obj\Debug\PuntoUno.pdb
