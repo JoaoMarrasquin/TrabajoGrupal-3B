@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Problema\Problema\bin\Debug\Problema.exe.config
+C:\Users\User\source\repos\Problema\Problema\bin\Debug\Problema.exe
+C:\Users\User\source\repos\Problema\Problema\bin\Debug\Problema.pdb
+C:\Users\User\source\repos\Problema\Problema\obj\Debug\Problema.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Problema\Problema\obj\Debug\Problema.exe
+C:\Users\User\source\repos\Problema\Problema\obj\Debug\Problema.pdb
