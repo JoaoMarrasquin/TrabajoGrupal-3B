@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\SINGLETON\SINGLETON\bin\Debug\SINGLETON.exe.config
+C:\Users\User\source\repos\SINGLETON\SINGLETON\bin\Debug\SINGLETON.exe
+C:\Users\User\source\repos\SINGLETON\SINGLETON\bin\Debug\SINGLETON.pdb
+C:\Users\User\source\repos\SINGLETON\SINGLETON\obj\Debug\SINGLETON.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SINGLETON\SINGLETON\obj\Debug\SINGLETON.exe
+C:\Users\User\source\repos\SINGLETON\SINGLETON\obj\Debug\SINGLETON.pdb
