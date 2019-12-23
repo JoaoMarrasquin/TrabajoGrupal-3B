@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Decordador\Decordador\bin\Debug\Decordador.exe.config
+C:\Users\User\source\repos\Decordador\Decordador\bin\Debug\Decordador.exe
+C:\Users\User\source\repos\Decordador\Decordador\bin\Debug\Decordador.pdb
+C:\Users\User\source\repos\Decordador\Decordador\obj\Debug\Decordador.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Decordador\Decordador\obj\Debug\Decordador.exe
+C:\Users\User\source\repos\Decordador\Decordador\obj\Debug\Decordador.pdb
